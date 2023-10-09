@@ -262,5 +262,16 @@
         "lat": "9.947743",
         "lng": "76.253802",
         "population": "1519000"
+    },
+    {
+        "city": "Ankara",
+        "admin": "Kerala",
+        "country": "Turkey",
+        "population_proper": "80000000",
+        "iso2": "IN",
+        "capital": "",
+        "lat": "39.925",
+        "lng": " 32.8368",
+        "population": "1519000"
     }
 ]

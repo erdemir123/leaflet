@@ -30,8 +30,8 @@ const MarkersMap = () => {
   const markerIcon = new L.Icon({
     iconUrl: require("./logo512.png"),
     iconSize: [40, 40],
-    iconAnchor: [17, 46], //[left/right, top/bottom]
-    popupAnchor: [0, -46], //[left/right, top/bottom]
+    iconAnchor: [0, 0], //[left/right, top/bottom]
+    popupAnchor: [0, 0], //[left/right, top/bottom]
   });
   const location = useGeoLocation()
   const showMyLocation = () => {
